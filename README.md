@@ -115,7 +115,7 @@
     &nbsp;
 
     Contoh tag pada HTML:
-    - ### Tag untuk membuat judul pada tampilan website
+    - Tag untuk membuat judul pada tampilan website
         ```html
         <h1>Hello HTML</h1>
         <h2>Hello HTML</h2>
@@ -130,7 +130,7 @@
 
         ![gambar2](Screen-Shot/gambar2.jpg)
 
-    - ### Tag untuk membuat sebuah paragraf
+    - Tag untuk membuat sebuah paragraf
         ```html
         <p>ini sebuah paragraf</p>
         ```
@@ -138,7 +138,7 @@
 
         ![gambar3](Screen-Shot/gambar3.jpg)
 
-    - ### Tag untuk membuat list
+    - Tag untuk membuat list
         ```html
         <!-- Unordered List -->
         <ul>
@@ -158,7 +158,7 @@
 
         ![gambar4](Screen-Shot/gambar4.jpg)
     
-    - ### Tag untuk menyisipkan sebuah gambar
+    - Tag untuk menyisipkan sebuah gambar
         ```html
         <img src="https://bit.ly/2FKluzq"
         alt="kucing" width="200px" height="150px">
@@ -171,7 +171,7 @@
         
         <div align="justify"> Atribute tersebut memiliki fungsi nya tersendiri, alt atau alternatif yang dimana akan menampilkan sebuah informasi jika gambar tersebut tidak dapat di tampilkan. Sedangkan Width dan Height berfungsi untuk mengatur lebar dan tinggi dari sebuah konten/gambar.
 
-    - ### Tag untuk menampilkan sebuah video
+    - Tag untuk menampilkan sebuah video
         ```html
         <video width="320" height="240">
             <source src="https://bit.ly/2FKluzq" />
@@ -182,7 +182,7 @@
 
         ![gambar6](Screen-Shot/gambar6.jpg)
     
-    - ### Deploy HMTL
+    - Deploy HMTL
         Deploy adalah sebuah proses yang bertujuan untuk sharing program serta aplikasi yang sudah kita kerjakan supaya dapat di gunakan oleh orang lain. Apabila kita membuat suatu Web Apps atau HTML kita perlu men-Deploy ke server, untuk melakukan hal ini kita bisa menggunakan layanan yang bernama Netify.
 
 &nbsp;
@@ -299,20 +299,20 @@
 
     &nbsp;
     - ### Pada umumnya Pseudocode memiliki 3 bagian:
-        - ### Judul : Penjelasan dari algoritma yang di buat oleh programmer.
-        - ### Deklarasi : Mendefinisikan semua nama atau menyiapkan variabel-variabel yang akan di gunakan.
-        - ### Deskripsi : Step-step yang di gunakan untuk menyelesaikan permasalahan.
+        - Judul : Penjelasan dari algoritma yang di buat oleh programmer.
+        - Deklarasi : Mendefinisikan semua nama atau menyiapkan variabel-variabel yang akan di gunakan.
+        - Deskripsi : Step-step yang di gunakan untuk menyelesaikan permasalahan.
 
     &nbsp;
     - ### Tidak ada aturan baku dalam penulisan Pseudocode, asalkan mencakup:
-        - ### Jelas,
-        - ### Simple,
-        - ### konsisten,
-        - ### Dan mudah di baca orang lain.
+        - Jelas,
+        - Simple,
+        - konsisten,
+        - Dan mudah di baca orang lain.
 
     &nbsp;
     - ### Contoh Pseudocode
-        - ### Deskriptif
+        - Deskriptif
             1. Terdapat lampu 
             2. Apakah lampu berwarna hijau ?
             3. Jika benar, maka lalu lintas jalan, lalu ke no 9
@@ -324,7 +324,7 @@
             9. Selesai
 
         &nbsp;
-        - ### Penerapan Pseudocode
+        - Penerapan Pseudocode
         ```md
         Lampu lalu lintas
         deklarasi
@@ -383,11 +383,11 @@
     
     Case ini meliputi:
     &nbsp;
-    - ### IF Statement
-    - ### IF ELSE Statement
-    - ### IF ELSE IF Statement
-    - ### Truthly and Falsy
-    - ### Swicth Case Condtional
+    - IF Statement
+    - IF ELSE Statement
+    - IF ELSE IF Statement
+    - Truthly and Falsy
+    - Swicth Case Condtional
 
     Contoh:
     ```js
@@ -438,10 +438,10 @@
 
     Looping meliputi:
     &nbsp;
-    - ### FOR LOOP
-    - ### WHILE LOOP
-    - ### DO WHILE
-    - ### Nested LOOP
+    - FOR LOOP
+    - WHILE LOOP
+    - DO WHILE
+    - Nested LOOP
 
     Contoh:
     ```js
