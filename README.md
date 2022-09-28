@@ -16,7 +16,7 @@
     <div align="justify">Sebuah filesystem yang mengatur serta menyusun bagaimana data di simpan di dalam sebuah sistem, sistem operasi Windows dan Unix-like menyusun file dan direktori menggunakan struktur yang bentuknya seperti tree atau pohon. Contoh nya seperti berikut:
     &nbsp;
 
-    ![gambarTree](gambarTree.png)
+    ![gambarTree](Screen-Shot/gambarTree.png)
 
 - ### Terminal
     <div align="justify">Terminal adalah penghubung antara user dengan komputer, terminal ialah tempat user mengetikan sebuah perintah.
@@ -102,7 +102,7 @@
     <div align="justify">Pada kode diatas ialah struktur kode dari HTML, dimana pada setiap website memiliki sebuah title atau judul dengan tag tittle. Untuk memasukkan sebuah konten yang akan di tampilkan pada website, kamu dapat menyisipkan kode pada tag body. Tag body ini yang nantinya akan selalu di gunakan pada saat membuat sebuah website. Serta ada juga Anatomi HTML, gambarnya sebagai berikut:
 
     &nbsp;
-    ![gambarAnatomiHTML](gambar1.png)
+    ![gambarAnatomiHTML](Screen-Shot/gambar1.png)
 
     &nbsp;
     
@@ -128,7 +128,7 @@
     
         Hasil yang ditampilkan:
 
-        ![gambar2](gambar2.jpg)
+        ![gambar2](Screen-Shot/gambar2.jpg)
 
     - ### Tag untuk membuat sebuah paragraf
         ```html
@@ -136,7 +136,7 @@
         ```
         Hasil yang ditampilkan:
 
-        ![gambar3](gambar3.jpg)
+        ![gambar3](Screen-Shot/gambar3.jpg)
 
     - ### Tag untuk membuat list
         ```html
@@ -156,7 +156,7 @@
         ```
         Hasil yang ditampilkan:
 
-        ![gambar4](gambar4.jpg)
+        ![gambar4](Screen-Shot/gambar4.jpg)
     
     - ### Tag untuk menyisipkan sebuah gambar
         ```html
@@ -165,7 +165,7 @@
         ```
         Hasil yang ditampilkan:
 
-        ![gambar5](gambar5.jpg)
+        ![gambar5](Screen-Shot/gambar5.jpg)
 
         <div align="justify"> Pada kode diatas ada yang berbeda dari kode sebelumnya dimana terdapat sebuah atribute alt, width dan height. 
         
@@ -180,7 +180,7 @@
 
         hasil yang ditampilkan:
 
-        ![gambar6](gambar6.jpg)
+        ![gambar6](Screen-Shot/gambar6.jpg)
     
     - ### Deploy HMTL
         Deploy adalah sebuah proses yang bertujuan untuk sharing program serta aplikasi yang sudah kita kerjakan supaya dapat di gunakan oleh orang lain. Apabila kita membuat suatu Web Apps atau HTML kita perlu men-Deploy ke server, untuk melakukan hal ini kita bisa menggunakan layanan yang bernama Netify.
